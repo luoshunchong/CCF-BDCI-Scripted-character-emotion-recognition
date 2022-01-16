@@ -1,0 +1,7 @@
+save_model
+w2v_chinese
+pre_models
+subing
+!*.rar
+!*.docx
+!*.zip

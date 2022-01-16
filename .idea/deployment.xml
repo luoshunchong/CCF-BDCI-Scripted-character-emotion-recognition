@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@dust-occurred-soviet-package.trycloudflare.com:22" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="root@124.238.238.187:22 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@dust-occurred-soviet-package.trycloudflare.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/content/drive/MyDrive/mycontests/Scripted character emotion recognition" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@showcase-athens-differential-diego.trycloudflare.com:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/content/drive/MyDrive/mycontests" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@showcase-athens-differential-diego.trycloudflare.com:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/content/drive/MyDrive/mycontests/Scripted character emotion recognition" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
